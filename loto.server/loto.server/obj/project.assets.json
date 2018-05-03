@@ -12542,11 +12542,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\idecon1\\Desktop\\Full Stack\\loto.server\\loto.server\\loto.server.csproj",
+      "projectUniqueName": "C:\\Users\\idecon1\\Desktop\\Full Stack\\loto\\lotoserver\\loto.server\\loto.server.csproj",
       "projectName": "loto.server",
-      "projectPath": "C:\\Users\\idecon1\\Desktop\\Full Stack\\loto.server\\loto.server\\loto.server.csproj",
+      "projectPath": "C:\\Users\\idecon1\\Desktop\\Full Stack\\loto\\lotoserver\\loto.server\\loto.server.csproj",
       "packagesPath": "C:\\Users\\idecon1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\idecon1\\Desktop\\Full Stack\\loto.server\\loto.server\\obj\\",
+      "outputPath": "C:\\Users\\idecon1\\Desktop\\Full Stack\\loto\\lotoserver\\loto.server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
